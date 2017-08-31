@@ -1,2 +1,2 @@
-# test
-Test - First repository for testing github
+# Test
+First repository for testing github
